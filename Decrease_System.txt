@@ -1,0 +1,457 @@
+
+###########################
+2014-11-01 05:59:18.326660
+###########################
+.
+time: 1414821558
+pid: 30525
+utime: 0.156009 (+0.156009)
+stime: 0.012 (+0.012)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:00:46.374648
+###########################
+.
+time: 1414821646
+pid: 30538
+utime: 0.144009 (+0.144009)
+stime: 0.024001 (+0.024001)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:00:56.389009
+###########################
+.
+time: 1414821656
+pid: 30538
+utime: 0.148009 (+0.004)
+stime: 0.024001 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:01:06.403387
+###########################
+.
+time: 1414821666
+pid: 30538
+utime: 0.152009 (+0.004)
+stime: 0.024001 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:01:28.841097
+###########################
+#MLN: Stopping server1.apache2
+###########################
+2014-11-01 06:01:40.785711
+###########################
+#MLN STATUS: apache2 host server3 up None       | Running     | MS016A_net=192.168.128.163
+###########################
+2014-11-01 06:01:40.786043
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:01:40.786223
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:01:40.786392
+###########################
+#MLN STATUS: apache2 host server2 up None       | Running     | MS016A_net=192.168.128.159
+###########################
+2014-11-01 06:01:40.786550
+###########################
+#MLN STATUS: apache2 host server4 up None       | Running     | MS016A_net=192.168.128.164
+###########################
+2014-11-01 06:01:50.800145
+###########################
+.
+time: 1414821710
+pid: 30538
+utime: 0.152009 (+0)
+stime: 0.032002 (+0.008001)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:02:00.814510
+###########################
+.
+time: 1414821720
+pid: 30538
+utime: 0.156009 (+0.00399999999999998)
+stime: 0.032002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:02:10.828829
+###########################
+.
+time: 1414821730
+pid: 30538
+utime: 0.156009 (+0)
+stime: 0.036002 (+0.004)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:02:33.000562
+###########################
+#MLN: Stopping server2.apache2
+###########################
+2014-11-01 06:02:45.335172
+###########################
+#MLN STATUS: apache2 host server3 up None       | Running     | MS016A_net=192.168.128.163
+###########################
+2014-11-01 06:02:45.335559
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:02:45.335756
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:02:45.335919
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:02:45.336094
+###########################
+#MLN STATUS: apache2 host server4 up None       | Running     | MS016A_net=192.168.128.164
+###########################
+2014-11-01 06:02:55.349886
+###########################
+.
+time: 1414821775
+pid: 30538
+utime: 0.16801 (+0.012001)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:03:05.364044
+###########################
+.
+time: 1414821785
+pid: 30538
+utime: 0.17201 (+0.004)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:03:15.378206
+###########################
+.
+time: 1414821795
+pid: 30538
+utime: 0.176011 (+0.004001)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:03:32.979188
+###########################
+#MLN: Stopping server3.apache2
+###########################
+2014-11-01 06:03:49.022202
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:03:49.022565
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:03:49.022743
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:03:49.022910
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:03:49.023074
+###########################
+#MLN STATUS: apache2 host server4 up None       | Running     | MS016A_net=192.168.128.164
+###########################
+2014-11-01 06:03:59.036929
+###########################
+.
+time: 1414821839
+pid: 30538
+utime: 0.184011 (+0.00799999999999998)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:04:09.050689
+###########################
+.
+time: 1414821849
+pid: 30538
+utime: 0.192012 (+0.00800100000000001)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:04:19.064737
+###########################
+.
+time: 1414821859
+pid: 30538
+utime: 0.192012 (+0)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:04:37.032512
+###########################
+#MLN: Stopping server4.apache2
+###########################
+2014-11-01 06:04:49.641811
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:04:49.642123
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:04:49.642298
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:04:49.642470
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:04:49.642581
+###########################
+#MLN STATUS: apache2 host server4 down
+###########################
+2014-11-01 06:04:59.656519
+###########################
+.
+time: 1414821899
+pid: 30538
+utime: 0.204012 (+0.012)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:05:09.670806
+###########################
+.
+time: 1414821909
+pid: 30538
+utime: 0.204012 (+0)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:05:19.685219
+###########################
+.
+time: 1414821919
+pid: 30538
+utime: 0.204012 (+0)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:05:29.699132
+###########################
+.
+time: 1414821929
+pid: 30538
+utime: 0.208013 (+0.004001)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:05:39.712816
+###########################
+.
+time: 1414821939
+pid: 30538
+utime: 0.212013 (+0.00399999999999998)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:05:49.724820
+###########################
+.
+time: 1414821949
+pid: 30538
+utime: 0.216013 (+0.004)
+stime: 0.036002 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:05:59.738749
+###########################
+.
+time: 1414821959
+pid: 30538
+utime: 0.216013 (+0)
+stime: 0.040002 (+0.004)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
