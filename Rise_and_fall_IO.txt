@@ -1,0 +1,98 @@
+
+2014-11-01 06:19:45.465848 --- Connection to: localhost port: 16000
+2014-11-01 06:19:45.467282 --- ########### New Connection Query ###########
+2014-11-01 06:19:55.481780 --- ########### New Connection Query ###########
+2014-11-01 06:20:05.493651 --- ########### New Connection Query ###########
+2014-11-01 06:20:15.508894 --- ########### New Connection Query ###########
+2014-11-01 06:20:15.514187 --- Removing 192.168.128.159 #server2
+ from dormant_nodes.txt
+2014-11-01 06:20:15.657533 --- #MLN: mln start -p apache2 -h server2
+2014-11-01 06:20:35.942542 --- Adding 192.168.128.159 #server2
+ to active_nodes.dat
+2014-11-01 06:20:35.942676 --- System normal queue count is: 1
+2014-11-01 06:20:35.942715 --- Increase pool with : 192.168.128.159 #server2
+
+2014-11-01 06:20:45.949731 --- ########### New Connection Query ###########
+2014-11-01 06:20:55.965484 --- ########### New Connection Query ###########
+2014-11-01 06:21:05.977695 --- ########### New Connection Query ###########
+2014-11-01 06:21:05.982744 --- Adding 192.168.128.158 #server1
+ to dormant.txt
+2014-11-01 06:21:21.125920 --- #MLN: mln stop -p apache2 -h server1
+2014-11-01 06:21:37.758007 --- Decrease pool with : 192.168.128.158 #server1
+
+2014-11-01 06:21:47.768592 --- ########### New Connection Query ###########
+2014-11-01 06:21:47.775955 --- Removing 192.168.128.163 #server3
+ from dormant_nodes.txt
+2014-11-01 06:21:47.879601 --- #MLN: mln start -p apache2 -h server3
+2014-11-01 06:22:07.481607 --- Adding 192.168.128.163 #server3
+ to active_nodes.dat
+2014-11-01 06:22:07.481892 --- System normal queue count is: 1
+2014-11-01 06:22:07.481935 --- Increase pool with : 192.168.128.163 #server3
+
+2014-11-01 06:22:17.489732 --- ########### New Connection Query ###########
+2014-11-01 06:22:27.505817 --- ########### New Connection Query ###########
+2014-11-01 06:22:37.522084 --- ########### New Connection Query ###########
+2014-11-01 06:22:37.528678 --- Adding 192.168.128.159 #server2
+ to dormant.txt
+2014-11-01 06:22:52.663331 --- #MLN: mln stop -p apache2 -h server2
+2014-11-01 06:23:10.357767 --- Decrease pool with : 192.168.128.159 #server2
+
+2014-11-01 06:23:20.368301 --- ########### New Connection Query ###########
+2014-11-01 06:23:30.385001 --- ########### New Connection Query ###########
+2014-11-01 06:23:30.392080 --- Removing 192.168.128.164 #server4
+ from dormant_nodes.txt
+2014-11-01 06:23:30.513294 --- #MLN: mln start -p apache2 -h server4
+2014-11-01 06:23:50.054005 --- Adding 192.168.128.164 #server4
+ to active_nodes.dat
+2014-11-01 06:23:50.054168 --- System normal queue count is: 1
+2014-11-01 06:23:50.054208 --- Increase pool with : 192.168.128.164 #server4
+
+2014-11-01 06:24:00.061769 --- ########### New Connection Query ###########
+2014-11-01 06:24:00.070259 --- Removing 192.168.128.168 #server5
+ from dormant_nodes.txt
+2014-11-01 06:24:00.197568 --- #MLN: mln start -p apache2 -h server5
+2014-11-01 06:24:21.240464 --- Adding 192.168.128.168 #server5
+ to active_nodes.dat
+2014-11-01 06:24:21.240626 --- System normal queue count is: 1
+2014-11-01 06:24:21.240667 --- Increase pool with : 192.168.128.168 #server5
+
+2014-11-01 06:24:31.249713 --- ########### New Connection Query ###########
+2014-11-01 06:24:41.268243 --- ########### New Connection Query ###########
+2014-11-01 06:24:51.285704 --- ########### New Connection Query ###########
+2014-11-01 06:24:51.294397 --- Adding 192.168.128.163 #server3
+ to dormant.txt
+2014-11-01 06:25:06.409888 --- #MLN: mln stop -p apache2 -h server3
+2014-11-01 06:25:21.470364 --- Decrease pool with : 192.168.128.163 #server3
+
+2014-11-01 06:25:31.477702 --- ########### New Connection Query ###########
+2014-11-01 06:25:41.493758 --- ########### New Connection Query ###########
+2014-11-01 06:25:41.503170 --- Removing 192.168.128.158 #server1
+ from dormant_nodes.txt
+2014-11-01 06:25:41.629882 --- #MLN: mln start -p apache2 -h server1
+2014-11-01 06:26:00.613621 --- Adding 192.168.128.158 #server1
+ to active_nodes.dat
+2014-11-01 06:26:00.613946 --- System normal queue count is: 1
+2014-11-01 06:26:00.614008 --- Increase pool with : 192.168.128.158 #server1
+
+2014-11-01 06:26:10.624680 --- ########### New Connection Query ###########
+2014-11-01 06:26:20.645693 --- ########### New Connection Query ###########
+2014-11-01 06:26:30.664796 --- ########### New Connection Query ###########
+2014-11-01 06:26:30.673584 --- Adding 192.168.128.164 #server4
+ to dormant.txt
+2014-11-01 06:26:45.821768 --- #MLN: mln stop -p apache2 -h server4
+2014-11-01 06:27:02.846131 --- Decrease pool with : 192.168.128.164 #server4
+
+2014-11-01 06:27:12.858006 --- ########### New Connection Query ###########
+2014-11-01 06:27:22.876736 --- ########### New Connection Query ###########
+2014-11-01 06:27:32.896289 --- ########### New Connection Query ###########
+2014-11-01 06:27:32.905050 --- Adding 192.168.128.168 #server5
+ to dormant.txt
+2014-11-01 06:27:48.054094 --- #MLN: mln stop -p apache2 -h server5
+2014-11-01 06:28:02.470787 --- Decrease pool with : 192.168.128.168 #server5
+
+2014-11-01 06:28:12.481983 --- ########### New Connection Query ###########
+2014-11-01 06:28:22.500196 --- ########### New Connection Query ###########
+2014-11-01 06:28:32.519211 --- ########### New Connection Query ###########
+2014-11-01 06:28:42.538262 --- ########### New Connection Query ###########
+2014-11-01 06:28:52.556930 --- Could not connect to host
+2014-11-01 06:28:52.557025 --- ################### TRANSMISSION END ###################
