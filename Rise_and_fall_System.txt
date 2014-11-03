@@ -1,0 +1,1499 @@
+
+###########################
+2014-11-01 06:19:45.469945
+###########################
+.
+time: 1414822785
+pid: 30597
+utime: 0.144009 (+0.144009)
+stime: 0.024001 (+0.024001)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:19:55.484165
+###########################
+.
+time: 1414822795
+pid: 30597
+utime: 0.148009 (+0.004)
+stime: 0.024001 (+0)
+reqs: 0 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:20:05.498144
+###########################
+192.168.128.158:80 lastresponse 1414822805
+192.168.128.158:80 requests 869
+192.168.128.158:80 connects 870
+192.168.128.158:80 lastconnect 1414822805
+192.168.128.158:80 attempts 870
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822805
+.
+time: 1414822805
+pid: 30597
+utime: 2.032127 (+1.884118)
+stime: 0.224014 (+0.200013)
+reqs: 870 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.158:80 1
+.
+###########################
+2014-11-01 06:20:15.513942
+###########################
+192.168.128.158:80 lastresponse 1414822815
+192.168.128.158:80 requests 1870
+192.168.128.158:80 connects 1870
+192.168.128.158:80 lastconnect 1414822815
+192.168.128.158:80 attempts 1871
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822815
+.
+time: 1414822815
+pid: 30597
+utime: 4.32827 (+2.296143)
+stime: 0.404025 (+0.180011)
+reqs: 1871 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 1
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.158:80 1
+.
+###########################
+2014-11-01 06:20:23.022558
+###########################
+#MLN: Starting server2.apache2
+###########################
+2014-11-01 06:20:35.941981
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:20:35.942121
+###########################
+#MLN STATUS: apache2 host server5 down
+###########################
+2014-11-01 06:20:35.942171
+###########################
+#MLN STATUS: apache2 host server1 up None       | Running     | MS016A_net=192.168.128.158
+###########################
+2014-11-01 06:20:35.942218
+###########################
+#MLN STATUS: apache2 host server2 up None       | Running     | MS016A_net=192.168.128.159
+###########################
+2014-11-01 06:20:35.942263
+###########################
+#MLN STATUS: apache2 host server4 down
+###########################
+2014-11-01 06:20:45.954792
+###########################
+192.168.128.159:80 lastresponse 1414822845
+192.168.128.159:80 requests 96
+192.168.128.159:80 connects 102
+192.168.128.159:80 lastconnect 1414822845
+192.168.128.159:80 attempts 102
+192.168.128.159:80 responsecodes 200 96
+192.168.128.159:80 lastattempt 1414822845
+192.168.128.158:80 lastresponse 1414822845
+192.168.128.158:80 requests 4818
+192.168.128.158:80 connects 4818
+192.168.128.158:80 lastconnect 1414822845
+192.168.128.158:80 attempts 4818
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822845
+.
+time: 1414822845
+pid: 30597
+utime: 11.000687 (+6.672417)
+stime: 1.104069 (+0.700044)
+reqs: 4915 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.159:80 1
+.
+###########################
+2014-11-01 06:20:55.970151
+###########################
+192.168.128.159:80 lastresponse 1414822855
+192.168.128.159:80 requests 589
+192.168.128.159:80 connects 594
+192.168.128.159:80 lastconnect 1414822855
+192.168.128.159:80 attempts 594
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822855
+192.168.128.158:80 lastresponse 1414822855
+192.168.128.158:80 requests 5327
+192.168.128.158:80 connects 5327
+192.168.128.158:80 lastconnect 1414822855
+192.168.128.158:80 attempts 5327
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822855
+.
+time: 1414822855
+pid: 30597
+utime: 13.192824 (+2.192137)
+stime: 1.344084 (+0.240015)
+reqs: 5916 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:21:05.982344
+###########################
+192.168.128.159:80 lastresponse 1414822865
+192.168.128.159:80 requests 1101
+192.168.128.159:80 connects 1106
+192.168.128.159:80 lastconnect 1414822865
+192.168.128.159:80 attempts 1106
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822865
+192.168.128.158:80 lastresponse 1414822865
+192.168.128.158:80 requests 5817
+192.168.128.158:80 connects 5817
+192.168.128.158:80 lastconnect 1414822865
+192.168.128.158:80 attempts 5817
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822865
+.
+time: 1414822865
+pid: 30597
+utime: 15.392962 (+2.200138)
+stime: 1.536096 (+0.192012)
+reqs: 6918 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:21:23.968137
+###########################
+#MLN: Stopping server1.apache2
+###########################
+2014-11-01 06:21:37.757297
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:21:37.757453
+###########################
+#MLN STATUS: apache2 host server5 down
+###########################
+2014-11-01 06:21:37.757501
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:21:37.757548
+###########################
+#MLN STATUS: apache2 host server2 up None       | Running     | MS016A_net=192.168.128.159
+###########################
+2014-11-01 06:21:37.757594
+###########################
+#MLN STATUS: apache2 host server4 down
+###########################
+2014-11-01 06:21:47.775646
+###########################
+192.168.128.159:80 lastresponse 1414822907
+192.168.128.159:80 requests 5162
+192.168.128.159:80 connects 5168
+192.168.128.159:80 lastconnect 1414822907
+192.168.128.159:80 attempts 5169
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822907
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+.
+time: 1414822907
+pid: 30597
+utime: 24.073504 (+8.680542)
+stime: 2.856178 (+1.320082)
+reqs: 11096 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 1
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.159:80 2
+.
+###########################
+2014-11-01 06:21:55.223224
+###########################
+#MLN: Starting server3.apache2
+###########################
+2014-11-01 06:22:07.480866
+###########################
+#MLN STATUS: apache2 host server3 up None       | Running     | MS016A_net=192.168.128.163
+###########################
+2014-11-01 06:22:07.481022
+###########################
+#MLN STATUS: apache2 host server5 down
+###########################
+2014-11-01 06:22:07.481070
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:22:07.481116
+###########################
+#MLN STATUS: apache2 host server2 up None       | Running     | MS016A_net=192.168.128.159
+###########################
+2014-11-01 06:22:07.481161
+###########################
+#MLN STATUS: apache2 host server4 down
+###########################
+2014-11-01 06:22:17.495144
+###########################
+192.168.128.159:80 lastresponse 1414822937
+192.168.128.159:80 requests 8586
+192.168.128.159:80 connects 8591
+192.168.128.159:80 lastconnect 1414822937
+192.168.128.159:80 attempts 8591
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822937
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414822937
+192.168.128.163:80 requests 144
+192.168.128.163:80 connects 148
+192.168.128.163:80 lastconnect 1414822937
+192.168.128.163:80 attempts 148
+192.168.128.163:80 responsecodes 200 144
+192.168.128.163:80 lastattempt 1414822937
+.
+time: 1414822937
+pid: 30597
+utime: 31.697981 (+7.624477)
+stime: 4.108256 (+1.252078)
+reqs: 14662 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:22:27.511436
+###########################
+192.168.128.159:80 lastresponse 1414822947
+192.168.128.159:80 requests 8799
+192.168.128.159:80 connects 8804
+192.168.128.159:80 lastconnect 1414822947
+192.168.128.159:80 attempts 8804
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822947
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414822947
+192.168.128.163:80 requests 387
+192.168.128.163:80 connects 391
+192.168.128.163:80 lastconnect 1414822947
+192.168.128.163:80 attempts 391
+192.168.128.163:80 responsecodes 200 387
+192.168.128.163:80 lastattempt 1414822947
+.
+time: 1414822947
+pid: 30597
+utime: 32.710044 (+1.012063)
+stime: 4.292268 (+0.184012)
+reqs: 15118 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:22:37.528156
+###########################
+192.168.128.159:80 lastresponse 1414822957
+192.168.128.159:80 requests 9480
+192.168.128.159:80 connects 9485
+192.168.128.159:80 lastconnect 1414822957
+192.168.128.159:80 attempts 9485
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822957
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414822957
+192.168.128.163:80 requests 1086
+192.168.128.163:80 connects 1090
+192.168.128.163:80 lastconnect 1414822957
+192.168.128.163:80 attempts 1090
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414822957
+.
+time: 1414822957
+pid: 30597
+utime: 35.594224 (+2.88417999999999)
+stime: 4.724295 (+0.432027)
+reqs: 16498 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:22:58.599056
+###########################
+#MLN: Stopping server2.apache2
+###########################
+2014-11-01 06:23:10.356863
+###########################
+#MLN STATUS: apache2 host server3 up None       | Running     | MS016A_net=192.168.128.163
+###########################
+2014-11-01 06:23:10.357020
+###########################
+#MLN STATUS: apache2 host server5 down
+###########################
+2014-11-01 06:23:10.357068
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:23:10.357177
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:23:10.357227
+###########################
+#MLN STATUS: apache2 host server4 down
+###########################
+2014-11-01 06:23:20.374377
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823000
+192.168.128.163:80 requests 6775
+192.168.128.163:80 connects 6779
+192.168.128.163:80 lastconnect 1414823000
+192.168.128.163:80 attempts 6779
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823000
+.
+time: 1414823000
+pid: 30597
+utime: 47.862991 (+12.268767)
+stime: 6.88843 (+2.164135)
+reqs: 22428 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:23:30.391636
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823010
+192.168.128.163:80 requests 7323
+192.168.128.163:80 connects 7327
+192.168.128.163:80 lastconnect 1414823010
+192.168.128.163:80 attempts 7328
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823010
+.
+time: 1414823010
+pid: 30597
+utime: 49.103068 (+1.240077)
+stime: 7.104444 (+0.216014)
+reqs: 22977 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 1
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.163:80 1
+.
+###########################
+2014-11-01 06:23:38.301160
+###########################
+#MLN: Starting server4.apache2
+###########################
+2014-11-01 06:23:50.053413
+###########################
+#MLN STATUS: apache2 host server3 up None       | Running     | MS016A_net=192.168.128.163
+###########################
+2014-11-01 06:23:50.053550
+###########################
+#MLN STATUS: apache2 host server5 down
+###########################
+2014-11-01 06:23:50.053598
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:23:50.053644
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:23:50.053689
+###########################
+#MLN STATUS: apache2 host server4 up None       | Running     | MS016A_net=192.168.128.164
+###########################
+2014-11-01 06:24:00.069937
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823040
+192.168.128.163:80 requests 12066
+192.168.128.163:80 connects 12070
+192.168.128.163:80 lastconnect 1414823040
+192.168.128.163:80 attempts 12070
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823040
+192.168.128.164:80 lastresponse 1414823040
+192.168.128.164:80 requests 6
+192.168.128.164:80 connects 11
+192.168.128.164:80 lastconnect 1414823040
+192.168.128.164:80 attempts 12
+192.168.128.164:80 responsecodes 200 6
+192.168.128.164:80 lastattempt 1414823040
+.
+time: 1414823040
+pid: 30597
+utime: 59.04769 (+9.944622)
+stime: 8.756547 (+1.652103)
+reqs: 27726 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 1
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.164:80 1
+.
+###########################
+2014-11-01 06:24:09.484524
+###########################
+#MLN: Starting server5.apache2
+###########################
+2014-11-01 06:24:21.239854
+###########################
+#MLN STATUS: apache2 host server3 up None       | Running     | MS016A_net=192.168.128.163
+###########################
+2014-11-01 06:24:21.239999
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:24:21.240048
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:24:21.240094
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:24:21.240138
+###########################
+#MLN STATUS: apache2 host server4 up None       | Running     | MS016A_net=192.168.128.164
+###########################
+2014-11-01 06:24:31.257502
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823071
+192.168.128.163:80 requests 14160
+192.168.128.163:80 connects 14164
+192.168.128.163:80 lastconnect 1414823071
+192.168.128.163:80 attempts 14164
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823071
+192.168.128.164:80 lastresponse 1414823071
+192.168.128.164:80 requests 2055
+192.168.128.164:80 connects 2060
+192.168.128.164:80 lastconnect 1414823071
+192.168.128.164:80 attempts 2060
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823071
+192.168.128.168:80 lastresponse 1414823071
+192.168.128.168:80 requests 14
+192.168.128.168:80 connects 16
+192.168.128.168:80 lastconnect 1414823071
+192.168.128.168:80 attempts 17
+192.168.128.168:80 responsecodes 200 14
+192.168.128.168:80 lastattempt 1414823071
+.
+time: 1414823071
+pid: 30597
+utime: 67.724232 (+8.676542)
+stime: 10.372648 (+1.616101)
+reqs: 31882 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:24:41.277919
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823081
+192.168.128.163:80 requests 14760
+192.168.128.163:80 connects 14764
+192.168.128.163:80 lastconnect 1414823081
+192.168.128.163:80 attempts 14764
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823081
+192.168.128.164:80 lastresponse 1414823081
+192.168.128.164:80 requests 2636
+192.168.128.164:80 connects 2642
+192.168.128.164:80 lastconnect 1414823081
+192.168.128.164:80 attempts 2642
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823081
+192.168.128.168:80 lastresponse 1414823081
+192.168.128.168:80 requests 636
+192.168.128.168:80 connects 638
+192.168.128.168:80 lastconnect 1414823081
+192.168.128.168:80 attempts 639
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823081
+.
+time: 1414823081
+pid: 30597
+utime: 71.320457 (+3.596225)
+stime: 11.104694 (+0.732046)
+reqs: 33686 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.164:80 1
+.
+###########################
+2014-11-01 06:24:51.293926
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15345
+192.168.128.163:80 connects 15349
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15349
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823091
+192.168.128.164:80 requests 3267
+192.168.128.164:80 connects 3272
+192.168.128.164:80 lastconnect 1414823091
+192.168.128.164:80 attempts 3272
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823091
+192.168.128.168:80 lastresponse 1414823091
+192.168.128.168:80 requests 1223
+192.168.128.168:80 connects 1225
+192.168.128.168:80 lastconnect 1414823091
+192.168.128.168:80 attempts 1226
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823091
+.
+time: 1414823091
+pid: 30597
+utime: 75.128695 (+3.80823799999999)
+stime: 11.740733 (+0.636039)
+reqs: 35488 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:25:09.841417
+###########################
+#MLN: Stopping server3.apache2
+###########################
+2014-11-01 06:25:21.469589
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:25:21.469760
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:25:21.469824
+###########################
+#MLN STATUS: apache2 host server1 down
+###########################
+2014-11-01 06:25:21.469872
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:25:21.469917
+###########################
+#MLN STATUS: apache2 host server4 up None       | Running     | MS016A_net=192.168.128.164
+###########################
+2014-11-01 06:25:31.485841
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823131
+192.168.128.164:80 requests 6522
+192.168.128.164:80 connects 6527
+192.168.128.164:80 lastconnect 1414823131
+192.168.128.164:80 attempts 6527
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823131
+192.168.128.168:80 lastresponse 1414823131
+192.168.128.168:80 requests 4437
+192.168.128.168:80 connects 4439
+192.168.128.168:80 lastconnect 1414823131
+192.168.128.168:80 attempts 4440
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823131
+.
+time: 1414823131
+pid: 30597
+utime: 88.769547 (+13.640852)
+stime: 14.336896 (+2.596163)
+reqs: 42000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:25:41.502831
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823141
+192.168.128.164:80 requests 7542
+192.168.128.164:80 connects 7547
+192.168.128.164:80 lastconnect 1414823141
+192.168.128.164:80 attempts 7548
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823141
+192.168.128.168:80 lastresponse 1414823141
+192.168.128.168:80 requests 5420
+192.168.128.168:80 connects 5422
+192.168.128.168:80 lastconnect 1414823141
+192.168.128.168:80 attempts 5423
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823141
+.
+time: 1414823141
+pid: 30597
+utime: 92.96981 (+4.20026299999999)
+stime: 15.04494 (+0.708044000000001)
+reqs: 44004 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 1
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+192.168.128.164:80 1
+.
+###########################
+2014-11-01 06:25:49.094826
+###########################
+#MLN: Starting server1.apache2
+###########################
+2014-11-01 06:26:00.612376
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:26:00.612700
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:26:00.612873
+###########################
+#MLN STATUS: apache2 host server1 up None       | Running     | MS016A_net=192.168.128.158
+###########################
+2014-11-01 06:26:00.613039
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:26:00.613149
+###########################
+#MLN STATUS: apache2 host server4 up None       | Running     | MS016A_net=192.168.128.164
+###########################
+2014-11-01 06:26:10.634911
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823170
+pid: 30597
+utime: 95.269954 (+2.300144)
+stime: 15.436964 (+0.392023999999999)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:26:20.653977
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823180
+pid: 30597
+utime: 95.269954 (+0)
+stime: 15.440965 (+0.00400100000000059)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:26:30.673067
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823190
+pid: 30597
+utime: 95.277954 (+0.00799999999999557)
+stime: 15.440965 (+0)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:26:51.277968
+###########################
+#MLN: Stopping server4.apache2
+###########################
+2014-11-01 06:27:02.844881
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:27:02.845191
+###########################
+#MLN STATUS: apache2 host server5 up None       | Running     | MS016A_net=192.168.128.168
+###########################
+2014-11-01 06:27:02.845402
+###########################
+#MLN STATUS: apache2 host server1 up None       | Running     | MS016A_net=192.168.128.158
+###########################
+2014-11-01 06:27:02.845578
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:27:02.845693
+###########################
+#MLN STATUS: apache2 host server4 down
+###########################
+2014-11-01 06:27:12.864353
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823232
+pid: 30597
+utime: 95.285955 (+0.00800100000000725)
+stime: 15.444965 (+0.00399999999999956)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:27:22.884055
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823242
+pid: 30597
+utime: 95.293955 (+0.00799999999999557)
+stime: 15.444965 (+0)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:27:32.904569
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823252
+pid: 30597
+utime: 95.297955 (+0.00400000000000489)
+stime: 15.444965 (+0)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:27:50.811846
+###########################
+#MLN: Stopping server5.apache2
+###########################
+2014-11-01 06:28:02.469454
+###########################
+#MLN STATUS: apache2 host server3 down
+###########################
+2014-11-01 06:28:02.469749
+###########################
+#MLN STATUS: apache2 host server5 down
+###########################
+2014-11-01 06:28:02.469920
+###########################
+#MLN STATUS: apache2 host server1 up None       | Running     | MS016A_net=192.168.128.158
+###########################
+2014-11-01 06:28:02.470094
+###########################
+#MLN STATUS: apache2 host server2 down
+###########################
+2014-11-01 06:28:02.470267
+###########################
+#MLN STATUS: apache2 host server4 down
+###########################
+2014-11-01 06:28:12.488065
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823292
+pid: 30597
+utime: 95.305956 (+0.00800099999999304)
+stime: 15.448965 (+0.00399999999999956)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:28:22.507394
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823302
+pid: 30597
+utime: 95.309956 (+0.00400000000000489)
+stime: 15.448965 (+0)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:28:32.527189
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823312
+pid: 30597
+utime: 95.317957 (+0.00800100000000725)
+stime: 15.448965 (+0)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
+###########################
+2014-11-01 06:28:42.546333
+###########################
+192.168.128.159:80 lastresponse 1414822960
+192.168.128.159:80 requests 9721
+192.168.128.159:80 connects 9726
+192.168.128.159:80 lastconnect 1414822960
+192.168.128.159:80 attempts 9726
+192.168.128.159:80 responsecodes 200 500
+192.168.128.159:80 lastattempt 1414822960
+192.168.128.158:80 lastresponse 1414822867
+192.168.128.158:80 requests 5932
+192.168.128.158:80 connects 5932
+192.168.128.158:80 lastconnect 1414822867
+192.168.128.158:80 attempts 5932
+192.168.128.158:80 responsecodes 200 500
+192.168.128.158:80 lastattempt 1414822867
+192.168.128.163:80 lastresponse 1414823091
+192.168.128.163:80 requests 15388
+192.168.128.163:80 connects 15392
+192.168.128.163:80 lastconnect 1414823091
+192.168.128.163:80 attempts 15392
+192.168.128.163:80 responsecodes 200 500
+192.168.128.163:80 lastattempt 1414823091
+192.168.128.164:80 lastresponse 1414823147
+192.168.128.164:80 requests 8044
+192.168.128.164:80 connects 8049
+192.168.128.164:80 lastconnect 1414823147
+192.168.128.164:80 attempts 8049
+192.168.128.164:80 responsecodes 200 500
+192.168.128.164:80 lastattempt 1414823147
+192.168.128.168:80 lastresponse 1414823147
+192.168.128.168:80 requests 5915
+192.168.128.168:80 connects 5917
+192.168.128.168:80 lastconnect 1414823147
+192.168.128.168:80 attempts 5918
+192.168.128.168:80 responsecodes 200 500
+192.168.128.168:80 lastattempt 1414823147
+.
+time: 1414823322
+pid: 30597
+utime: 95.321957 (+0.00399999999999068)
+stime: 15.448965 (+0)
+reqs: 45000 (+0)
+.
+balancer2-normal.age 0
+balancer2-normal.count 0
+balancer2-highpri.age 0
+balancer2-highpri.count 0
+balancer2-lowpri.age 0
+balancer2-lowpri.count 0
+.
+.
