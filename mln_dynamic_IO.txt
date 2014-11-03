@@ -1,0 +1,45 @@
+
+2014-10-31 11:16:20.410918 --- Connection to: localhost port: 16000
+2014-10-31 11:16:20.412401 --- ########### New Connection Query ###########
+2014-10-31 11:16:30.426483 --- ########### New Connection Query ###########
+2014-10-31 11:16:40.437741 --- ########### New Connection Query ###########
+2014-10-31 11:16:40.443202 --- Removing 192.168.128.159 #server2
+ from dormant_nodes.txt
+2014-10-31 11:16:40.561035 --- #MLN: mln start -p apache2 -h server2
+2014-10-31 11:17:00.289198 --- Adding 192.168.128.159 #server2
+ to active_nodes.dat
+2014-10-31 11:17:00.289502 --- System normal queue count is: 1
+2014-10-31 11:17:00.289547 --- Increase pool with : 192.168.128.159 #server2
+
+2014-10-31 11:17:10.297805 --- ########### New Connection Query ###########
+2014-10-31 11:17:10.306764 --- Removing 192.168.128.163 #server3
+ from dormant_nodes.txt
+2014-10-31 11:17:10.454728 --- #MLN: mln start -p apache2 -h server3
+2014-10-31 11:17:31.522633 --- Adding 192.168.128.163 #server3
+ to active_nodes.dat
+2014-10-31 11:17:31.522799 --- System normal queue count is: 2
+2014-10-31 11:17:31.522839 --- Increase pool with : 192.168.128.163 #server3
+
+2014-10-31 11:17:41.533345 --- ########### New Connection Query ###########
+2014-10-31 11:17:51.549800 --- ########### New Connection Query ###########
+2014-10-31 11:17:51.573423 --- Removing 192.168.128.164 #server4
+ from dormant_nodes.txt
+2014-10-31 11:17:51.705830 --- #MLN: mln start -p apache2 -h server4
+2014-10-31 11:18:10.221847 --- Adding 192.168.128.164 #server4
+ to active_nodes.dat
+2014-10-31 11:18:10.222015 --- System normal queue count is: 85
+2014-10-31 11:18:10.222055 --- Increase pool with : 192.168.128.164 #server4
+
+2014-10-31 11:18:20.229805 --- ########### New Connection Query ###########
+2014-10-31 11:18:20.251209 --- Removing 192.168.128.168 #server5
+ from dormant_nodes.txt
+2014-10-31 11:18:20.387091 --- #MLN: mln start -p apache2 -h server5
+2014-10-31 11:18:41.060647 --- Adding 192.168.128.168 #server5
+ to active_nodes.dat
+2014-10-31 11:18:41.060811 --- System normal queue count is: 818
+2014-10-31 11:18:41.060903 --- Increase pool with : 192.168.128.168 #server5
+
+2014-10-31 11:18:51.069669 --- ########### New Connection Query ###########
+2014-10-31 11:19:01.117720 --- ########### New Connection Query ###########
+2014-10-31 11:19:11.140178 --- Could not connect to host
+2014-10-31 11:19:11.140331 --- ################### TRANSMISSION END ###################
